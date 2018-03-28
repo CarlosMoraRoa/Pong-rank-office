@@ -118,3 +118,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+
+SPOTIPY_CLIENT_ID = 'd0ae62306a394a5db81dbb60a2b4cb91'
+SPOTIPY_CLIENT_SECRET = '1c3d72b08b2446ea880be4226cb2c895'
+SPOTIPY_REDIRECT_URI = 'your-app-redirect-url'
